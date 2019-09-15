@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		800ADD9B2325AD1200E59D6A /* Code Challenge: Buttons & Labels | Actions & Outlets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Code Challenge: Buttons & Labels | Actions & Outlets.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		800ADD9B2325AD1200E59D6A /* It's not easy being green..app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "It's not easy being green..app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		800ADD9E2325AD1200E59D6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		800ADDA02325AD1200E59D6A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		800ADDA32325AD1200E59D6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		800ADDA52325AD1300E59D6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		800ADDA82325AD1300E59D6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		800ADDAA2325AD1300E59D6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		800ADDAF2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Code Challenge: Buttons & Labels | Actions & OutletsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		800ADDAF2325AD1300E59D6A /* It's not easy being green.Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "It's not easy being green.Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		800ADDB32325AD1300E59D6A /* Code_Challenge__Buttons___Labels___Actions___OutletsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Code_Challenge__Buttons___Labels___Actions___OutletsTests.swift"; sourceTree = "<group>"; };
 		800ADDB52325AD1300E59D6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		800ADDBA2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Code Challenge: Buttons & Labels | Actions & OutletsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		800ADDBA2325AD1300E59D6A /* It's not easy being green.UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "It's not easy being green.UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		800ADDBE2325AD1300E59D6A /* Code_Challenge__Buttons___Labels___Actions___OutletsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Code_Challenge__Buttons___Labels___Actions___OutletsUITests.swift"; sourceTree = "<group>"; };
 		800ADDC02325AD1300E59D6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		800ADD9C2325AD1200E59D6A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				800ADD9B2325AD1200E59D6A /* Code Challenge: Buttons & Labels | Actions & Outlets.app */,
-				800ADDAF2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsTests.xctest */,
-				800ADDBA2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsUITests.xctest */,
+				800ADD9B2325AD1200E59D6A /* It's not easy being green..app */,
+				800ADDAF2325AD1300E59D6A /* It's not easy being green.Tests.xctest */,
+				800ADDBA2325AD1300E59D6A /* It's not easy being green.UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		800ADD9A2325AD1200E59D6A /* Code Challenge: Buttons & Labels | Actions & Outlets */ = {
+		800ADD9A2325AD1200E59D6A /* It's not easy being green. */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 800ADDC32325AD1300E59D6A /* Build configuration list for PBXNativeTarget "Code Challenge: Buttons & Labels | Actions & Outlets" */;
+			buildConfigurationList = 800ADDC32325AD1300E59D6A /* Build configuration list for PBXNativeTarget "It's not easy being green." */;
 			buildPhases = (
 				800ADD972325AD1200E59D6A /* Sources */,
 				800ADD982325AD1200E59D6A /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = "Code Challenge: Buttons & Labels | Actions & Outlets";
+			name = "It's not easy being green.";
 			productName = "Code Challenge: Buttons & Labels | Actions & Outlets";
-			productReference = 800ADD9B2325AD1200E59D6A /* Code Challenge: Buttons & Labels | Actions & Outlets.app */;
+			productReference = 800ADD9B2325AD1200E59D6A /* It's not easy being green..app */;
 			productType = "com.apple.product-type.application";
 		};
-		800ADDAE2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsTests */ = {
+		800ADDAE2325AD1300E59D6A /* It's not easy being green.Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 800ADDC62325AD1300E59D6A /* Build configuration list for PBXNativeTarget "Code Challenge: Buttons & Labels | Actions & OutletsTests" */;
+			buildConfigurationList = 800ADDC62325AD1300E59D6A /* Build configuration list for PBXNativeTarget "It's not easy being green.Tests" */;
 			buildPhases = (
 				800ADDAB2325AD1300E59D6A /* Sources */,
 				800ADDAC2325AD1300E59D6A /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				800ADDB12325AD1300E59D6A /* PBXTargetDependency */,
 			);
-			name = "Code Challenge: Buttons & Labels | Actions & OutletsTests";
+			name = "It's not easy being green.Tests";
 			productName = "Code Challenge: Buttons & Labels | Actions & OutletsTests";
-			productReference = 800ADDAF2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsTests.xctest */;
+			productReference = 800ADDAF2325AD1300E59D6A /* It's not easy being green.Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		800ADDB92325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsUITests */ = {
+		800ADDB92325AD1300E59D6A /* It's not easy being green.UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 800ADDC92325AD1300E59D6A /* Build configuration list for PBXNativeTarget "Code Challenge: Buttons & Labels | Actions & OutletsUITests" */;
+			buildConfigurationList = 800ADDC92325AD1300E59D6A /* Build configuration list for PBXNativeTarget "It's not easy being green.UITests" */;
 			buildPhases = (
 				800ADDB62325AD1300E59D6A /* Sources */,
 				800ADDB72325AD1300E59D6A /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				800ADDBC2325AD1300E59D6A /* PBXTargetDependency */,
 			);
-			name = "Code Challenge: Buttons & Labels | Actions & OutletsUITests";
+			name = "It's not easy being green.UITests";
 			productName = "Code Challenge: Buttons & Labels | Actions & OutletsUITests";
-			productReference = 800ADDBA2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsUITests.xctest */;
+			productReference = 800ADDBA2325AD1300E59D6A /* It's not easy being green.UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 800ADD962325AD1200E59D6A /* Build configuration list for PBXProject "Code Challenge: Buttons & Labels | Actions & Outlets" */;
+			buildConfigurationList = 800ADD962325AD1200E59D6A /* Build configuration list for PBXProject "It's not easy being green." */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -217,9 +217,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				800ADD9A2325AD1200E59D6A /* Code Challenge: Buttons & Labels | Actions & Outlets */,
-				800ADDAE2325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsTests */,
-				800ADDB92325AD1300E59D6A /* Code Challenge: Buttons & Labels | Actions & OutletsUITests */,
+				800ADD9A2325AD1200E59D6A /* It's not easy being green. */,
+				800ADDAE2325AD1300E59D6A /* It's not easy being green.Tests */,
+				800ADDB92325AD1300E59D6A /* It's not easy being green.UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,12 +282,12 @@
 /* Begin PBXTargetDependency section */
 		800ADDB12325AD1300E59D6A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 800ADD9A2325AD1200E59D6A /* Code Challenge: Buttons & Labels | Actions & Outlets */;
+			target = 800ADD9A2325AD1200E59D6A /* It's not easy being green. */;
 			targetProxy = 800ADDB02325AD1300E59D6A /* PBXContainerItemProxy */;
 		};
 		800ADDBC2325AD1300E59D6A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 800ADD9A2325AD1200E59D6A /* Code Challenge: Buttons & Labels | Actions & Outlets */;
+			target = 800ADD9A2325AD1200E59D6A /* It's not easy being green. */;
 			targetProxy = 800ADDBB2325AD1300E59D6A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -478,7 +478,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Code Challenge: Buttons & Labels | Actions & Outlets.app/Code Challenge: Buttons & Labels | Actions & Outlets";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/It's not easy being green..app/It's not easy being green.";
 			};
 			name = Debug;
 		};
@@ -498,7 +498,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Code Challenge: Buttons & Labels | Actions & Outlets.app/Code Challenge: Buttons & Labels | Actions & Outlets";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/It's not easy being green..app/It's not easy being green.";
 			};
 			name = Release;
 		};
@@ -543,7 +543,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		800ADD962325AD1200E59D6A /* Build configuration list for PBXProject "Code Challenge: Buttons & Labels | Actions & Outlets" */ = {
+		800ADD962325AD1200E59D6A /* Build configuration list for PBXProject "It's not easy being green." */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				800ADDC12325AD1300E59D6A /* Debug */,
@@ -552,7 +552,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		800ADDC32325AD1300E59D6A /* Build configuration list for PBXNativeTarget "Code Challenge: Buttons & Labels | Actions & Outlets" */ = {
+		800ADDC32325AD1300E59D6A /* Build configuration list for PBXNativeTarget "It's not easy being green." */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				800ADDC42325AD1300E59D6A /* Debug */,
@@ -561,7 +561,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		800ADDC62325AD1300E59D6A /* Build configuration list for PBXNativeTarget "Code Challenge: Buttons & Labels | Actions & OutletsTests" */ = {
+		800ADDC62325AD1300E59D6A /* Build configuration list for PBXNativeTarget "It's not easy being green.Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				800ADDC72325AD1300E59D6A /* Debug */,
@@ -570,7 +570,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		800ADDC92325AD1300E59D6A /* Build configuration list for PBXNativeTarget "Code Challenge: Buttons & Labels | Actions & OutletsUITests" */ = {
+		800ADDC92325AD1300E59D6A /* Build configuration list for PBXNativeTarget "It's not easy being green.UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				800ADDCA2325AD1300E59D6A /* Debug */,
